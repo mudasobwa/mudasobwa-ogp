@@ -1,7 +1,7 @@
 mudasobwa-ogp
 ================
 
-See the [component page](http://mudasobwa.github.io/ws/mudasobwa-ogp) for more information.
+See the [component page](http://mudasobwa.github.io/wc/mudasobwa-ogp) for more information.
 
 ## Getting Started
 
